@@ -1,0 +1,38 @@
+# PDF Extractor
+
+The PDF Extractor is a Python application that extracts highlighted text from PDF files using the PyMuPDF library. It provides a user-friendly graphical interface for selecting a PDF file and displaying the extracted information.
+
+## Features
+
+- Extracts highlighted text from PDF files
+- Supports two different date formats for effective and expiry dates
+- Displays the extracted information in a formatted output
+- Provides a graphical interface for easy interaction
+
+## Prerequisites
+
+- Python 3.x
+- PyMuPDF library (`pip install pymupdf`)
+- Tkinter library (included with most Python installations)
+
+## Getting Started
+
+1. Clone the repository or download the source code.
+2. Install the required dependencies by running `pip install -r requirements.txt`.
+3. Run the `pdf_extractor.py` file using Python: `python pdf_extractor.py`.
+4. The application will launch, and a file dialog will prompt you to select a PDF file.
+5. Select a PDF file that contains highlighted text.
+6. The application will extract the highlighted text and display it in a graphical interface.
+7. The extracted information will be shown in a formatted output, including the name of the insured, policy number, effective date, and expiry date.
+8. Close the application when you're done.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- PyMuPDF: https://pymupdf.readthedocs.io/
+- Tkinter: [Python Software Foundation](https://docs.python.org/3/library/tkinter.html)
+## Author
+Amit Jadhav
