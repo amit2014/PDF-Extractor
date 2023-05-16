@@ -26,9 +26,10 @@ The PDF Extractor is a Python application that extracts highlighted text from PD
 7. The extracted information will be shown in a formatted output, including the name of the insured, policy number, effective date, and expiry date.
 8. Close the application when you're done.
 
-![GUI Screenshot -1 ](https://github.com/amit2014/PDF-Extractor/blob/master/example/1.png)
-![GUI Screenshot -2 ](https://github.com/amit2014/PDF-Extractor/blob/master/example/2.png)
-![GUI Screenshot -2 ](https://github.com/amit2014/PDF-Extractor/blob/master/example/3.png)
+![GUI Screenshot -1](https://github.com/amit2014/PDF-Extractor/blob/master/example/1.png)
+![GUI Screenshot -2](https://github.com/amit2014/PDF-Extractor/blob/master/example/2.png)
+![GUI Screenshot -3](https://github.com/amit2014/PDF-Extractor/blob/master/example/3.png)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
